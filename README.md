@@ -60,7 +60,8 @@
     src="https://github-readme-stats.vercel.app/api?username=gargi-singh06&show_icons=true&theme=tokyonight&cache_seconds=1800" 
     height="170"
   />
-<img src="https://ghchart.rshah.org/gargi-singh06" />
+<img src="https://img.shields.io/badge/GitHub-Active%20Contributor-success" />
+
 
 
 </p>
