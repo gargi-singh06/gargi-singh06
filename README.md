@@ -4,7 +4,7 @@
    <img src="https://www.bing.com/th/id/OGC.f541a923468ea6bd07d51c1192961a5c?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.imgflip.com%2f7o8fd2.gif&ehk=rqdm8j9YE%2fD0KTeszDHfJVIQp5xS6%2bcmd2VEZ0Q020M%3d" height="180" width="300"/>
 </p>
 <h1 align="center">Hey There 👋, I'm Gargi Singh</h1>
-<h3 align="center">Problem Solver | Java & Python Enthusiast | Web Development Learner</h3>
+<h3 align="center">Problem Solver | Java Enthusiast | Web Development Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gargi-singh-74b840332/" target="_blank">
