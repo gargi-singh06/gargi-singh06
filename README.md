@@ -53,18 +53,16 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gargi-singh06&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    height="170"
-  />
-<img src="https://img.shields.io/badge/GitHub-Active%20Contributor-success" />
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=gargi-singh06&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gargi-singh06&theme=tokyo-night" />
+</p>
+
 
 
 
